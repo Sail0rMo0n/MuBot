@@ -4,3 +4,5 @@ This is a simple template for a Discord bot. The code is not optimized for shard
 ## Installation
 For Linux, run start.sh which uses the traditional initialization methods or start2.sh for the modern ones. Do not forget to make the scripts executable.
 For Windows, create a new virtual environment for the project and run start.bat.
+
+*Add your Discord token in .env.
